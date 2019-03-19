@@ -1,0 +1,2 @@
+A second file has been added.
+It has two lines in it.
